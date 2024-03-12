@@ -1,3 +1,3 @@
-function calculateNewSkillValue(skill, skillValue, skillModifier) {
-  return skillValue + skillModifier;
+function calculateNumbers(var1, var2) {
+  return var1 + var2;
 }
